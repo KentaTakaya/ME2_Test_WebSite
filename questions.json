@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "question": "インターネットで誰でもアクセスできるウェブアプリケーションを公開するために、最も適したサービスはどれですか？",
+    "options": [
+        "Netlify",
+        "メモ帳",
+        "電卓",
+        "ペイント",
+        "エクスプローラー"
+    ],
+    "answer": 0,
+    "explanation": "Netlifyは静的なウェブサイトやウェブアプリケーションを簡単にホスティング（公開）できるサービスです。GitHubと連携して自動的にデプロイすることも可能です。"
+  },
+  {
+    "id": 2,
+    "question": "ウェブサイトの見た目（デザイン）を整えるために使用する言語はどれですか？",
+    "options": [
+        "HTML",
+        "Python",
+        "CSS",
+        "SQL",
+        "C++"
+    ],
+    "answer": 2,
+    "explanation": "CSS (Cascading Style Sheets) はウェブページのスタイル（色、レイアウト、フォントなど）を指定するための言語です。"
+  },
+  {
+    "id": 3,
+    "question": "JavaScriptをブラウザ以外で実行するための実行環境として有名なものはどれですか？",
+    "options": [
+        "Chrome",
+        "Node.js",
+        "Safari",
+        "Firefox",
+        "Edge"
+    ],
+    "answer": 1,
+    "explanation": "Node.jsはブラウザの外でJavaScriptを実行できるようにする環境です。サーバー製作や開発ツールの実行に広く使われています。"
+  }
+]
